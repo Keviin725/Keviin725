@@ -7,4 +7,12 @@ Im Kevin Machava
 - 👯 I’m looking to collaborate on Laravel and Quasar Projets
 - 💬 Actually learning Professional skills at @Explicador
 
+### Skills
+- HTML5
+- CSS3
+- PHP
+- JAVASCRIPT
+- MYSQL
+- NODEJS
+- BOOTSTRAP
 
