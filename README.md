@@ -1,11 +1,15 @@
 ### Hi there 👋
-Im Kevin Machava
----------------------------------------------------------------------------------------------------------------------------------------------------------
 
+### <p align="center">
+  <img src="https://user-images.githubusercontent.com/72518473/176572141-0cea8ddc-feaf-4563-aa63-7028a6759ce6.png" width="1000px" height="250px" marign="0 auto">
+</p>
+### about
 - 🔭 IT and Telecommunication Engineering student
 - 🌱 I’m currently learning fullstack web & mobile development
 - 👯 I’m looking to collaborate on Laravel and Quasar Projets
-- 💬 Actually learning Professional skills at @Explicador
+- 💬 Ask me about web App development 
+- Actually learning Professional skills at @Explicador
+- Im an ethical hacking enthusiat
 
 ### Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
