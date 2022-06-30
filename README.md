@@ -7,7 +7,7 @@
 ### about
 
 - 🔭 IT and Telecommunication Engineering student
-- 🌱 I’m currently learning fullstack web & mobile development
+- 🌱 I’m currently learning fullstack web & mobile development (Laravel & Quasar)
 - 👯 I’m looking to collaborate on Laravel and Quasar Projets
 - 💬 Ask me about web App development 
 - Actually learning Professional skills at @Explicador
