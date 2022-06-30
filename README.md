@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-### <p align="center">
+<p align="center">
   <img src="https://user-images.githubusercontent.com/72518473/176572141-0cea8ddc-feaf-4563-aa63-7028a6759ce6.png" width="1000px" height="250px" marign="0 auto">
 </p>
+
 ### about
+
 - 🔭 IT and Telecommunication Engineering student
 - 🌱 I’m currently learning fullstack web & mobile development
 - 👯 I’m looking to collaborate on Laravel and Quasar Projets
@@ -27,3 +29,7 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Keviin725&count_private=true&theme=tokyonight&showicons=true)]()
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Keviin725&langs_count=5&theme=tokyonight)]()
