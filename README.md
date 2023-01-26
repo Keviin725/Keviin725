@@ -1,10 +1,10 @@
-### Hi there 👋
+### <h1><b>Hi there 👋</b></h1>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/72518473/176572141-0cea8ddc-feaf-4563-aa63-7028a6759ce6.png" width="1000px" height="250px" marign="0 auto">
 </p>
 
-### about
+### <h1><b>About</b></h1>
 
 - 🔭 IT and Telecommunication Engineering student
 - 🌱 I’m currently learning fullstack web & mobile development (Laravel & Quasar)
@@ -13,7 +13,7 @@
 - Actually learning Professional skills at @Explicador
 - Im an ethical hacking enthusiat
 
-### Stacks
+### <h1><b>🚀 Stacks</b></h1>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -27,13 +27,20 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black)
+![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+<img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white" />
+<img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white" />
 
 
-### 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Keviin725&count_private=true&theme=tokyonight&showicons=true)]()
-###
+### <h1><b>Github Stats</b></h1>
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Keviin725&langs_count=5&theme=tokyonight)]()
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Keviin725&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" alt="Keviin725" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Keviin725&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="Keviin725" align = "center"/></p>
+
+
+### <h1><b>Github Profile Summary Card</b></h1>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keviin725&theme=github_dark" alt="" align = "center"/></p>
+
+
