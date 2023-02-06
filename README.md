@@ -43,7 +43,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Keviin725&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="Keviin725" align = "center"/></p>
 
 <!--START_SECTION:waka-->
-  ![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?username=keviin725&&theme=tokyonight&link="https://www.github.com/keviin725/keviin725")
+  ### <h1><b> Github Waka Stats </b></h1>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime/?username=keviin725&&theme=tokyonight" alt="waka stats" align="center"/></p>
 <!--END_SECTION:waka-->
 
 ### <h1><b>Github Profile Summary Card</b></h1>
