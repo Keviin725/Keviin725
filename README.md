@@ -28,10 +28,13 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white" />
 <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white" />
-
+![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 
 ### <h1><b>Github Stats</b></h1>
@@ -40,6 +43,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Keviin725&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="Keviin725" align = "center"/></p>
 
 <!--START_SECTION:waka-->
+  ![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?username=keviin725&&theme=tokyonight&link="https://www.github.com/keviin725/keviin725")
 <!--END_SECTION:waka-->
 
 ### <h1><b>Github Profile Summary Card</b></h1>
