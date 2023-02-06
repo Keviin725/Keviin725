@@ -39,7 +39,8 @@
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Keviin725&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" alt="Keviin725" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Keviin725&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="Keviin725" align = "center"/></p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=keviin725)](https://github.com/keviin725/keviin725)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### <h1><b>Github Profile Summary Card</b></h1>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keviin725&theme=github_dark" alt="" align = "center"/></p>
