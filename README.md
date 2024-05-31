@@ -50,7 +50,7 @@
 
 ### GitHub Waka Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=Keviin725&&theme=tokyonight" alt="waka stats" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=keviin725&&theme=tokyonight" alt="waka stats" align="center"/>
 </p>
 
 ### GitHub Profile Summary Card
