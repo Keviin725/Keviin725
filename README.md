@@ -9,7 +9,7 @@
 - 🔭 IT and Telecommunication Engineering student
 - 🌱 Currently mastering full-stack web & mobile development (Laravel & Quasar)
 - 💬 Ask me about web app development and ethical hacking
-- 🎓 Check out my [portfolio](https://keviin725.github.io/MyPortifolium/)
+- 🎓 Check out my [portfolio](https://kevinmachava.me/)
 
 ### 🚀 Stacks
 #### Frontend
