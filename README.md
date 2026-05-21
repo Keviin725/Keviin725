@@ -1,15 +1,17 @@
 
-### 👋 Passionate Fullstack Developer & Ethical Hacking Enthusiast
+### 👋 Passionate Fullstack Engineer
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/72518473/176572141-0cea8ddc-feaf-4563-aa63-7028a6759ce6.png" width="1000px" height="250px" marign="0 auto">
 </p>
 
 ### About Me
-- 🔭 IT and Telecommunication Engineering student
-- 🌱 Currently mastering full-stack web & mobile development (Laravel & Quasar)
-- 💬 Ask me about web app development and ethical hacking
-- 🎓 Check out my [portfolio](https://kevinmachava-47.web.app/)
+- 💻 Software Engineer focused on fullstack web development and scalable systems
+- 🚀 Building modern web applications, SaaS platforms, PWAs and business solutions
+- 🧠 Interested in AI, Cybersecurity and product engineering
+- ⚡ Working mainly with Vue.js, Node.js, Laravel and modern JavaScript ecosystems
+- 🎓 IT & Telecommunication Engineering finalist
+- 🌍 Check out my [portfolio](https://kevinmachava-47.web.app/)
 
 ### 🚀 Stacks
 #### Frontend
