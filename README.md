@@ -11,7 +11,7 @@
 - 🧠 Interested in AI, Cybersecurity and product engineering
 - ⚡ Working mainly with Vue.js, Node.js, Laravel and modern JavaScript ecosystems
 - 🎓 IT & Telecommunication Engineering finalist
-- 🌍 Check out my [portfolio](https://kevinmachava-47.web.app/)
+- 🌍 Check out my [portfolio](https://kevinmachava.web.app/)
 
 ### 🚀 Stacks
 #### Frontend
